@@ -1,2 +1,2 @@
 # calculator-app
-HTML, CSS, Vanilla Javascript, Bootstrap
+HTML, CSS, Vanilla Javascript
